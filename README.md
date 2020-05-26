@@ -5,3 +5,4 @@
 4th Commit to Branch A
 5th Commit to Branch A
 6th Commit to Branch A
+7th Commit to Branch A
