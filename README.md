@@ -6,3 +6,4 @@
 5th Commit to Branch A
 6th Commit to Branch A
 7th Commit to Branch A
+8th Commit to Branch A
